@@ -21,29 +21,6 @@ Bulk Image Converter is a privacy-first, frontend-only image conversion tool tha
 
 ---
 
-## 🚀 How to Run  
-
-You can use this tool in 3 different ways, all require zero installation of desktop software:  
-
-### 🟢 Option 1: Use Live Demo  
-Visit the public live demo link, works on all modern desktop and mobile browsers.  
-
-### 🟢 Option 2: Run as standalone HTML file  
-Save all the frontend code as a single `index.html` file and open it directly in your browser. The app works fully offline after first load.  
-
-### 🟢 Option 3: Run with the included Python server  
-
-1. Download the `bulk-image-converter.py` file from this repository  
-2. Run it with any standard Python 3 installation (no external pip packages required):  
-
-```bash
-python bulk-image-converter.py
-```
-
-The app will automatically open in your default browser at http://localhost:8080  
-
----
-
 ## 📥 Download Options  
 
 - Individual download button for every converted file  
