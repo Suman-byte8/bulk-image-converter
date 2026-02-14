@@ -1,6 +1,6 @@
 # 🖼️ bulk-image-converter  
 
-> 🔗 **Live Demo**: [https://replace-this-with-your-live-demo-url.com](https://replace-this-with-your-live-demo-url.com)  
+> 🔗 **Live URL**: https://suman-byte8.github.io/bulk-image-converter  
 > 💡 Replace the link above with your hosted demo URL when you are ready to publish.  
 
 Bulk Image Converter is a privacy-first, frontend-only image conversion tool that runs entirely in your browser. Convert between multiple formats including HEIC, JPEG, PNG, and WebP with intelligent compression that maintains visual quality while optimizing file size. No server uploads, no data leaving your device—just fast, secure, bulk image conversion at your fingertips.  
