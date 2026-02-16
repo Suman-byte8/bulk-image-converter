@@ -47,3 +47,14 @@ Bug reports, feature suggestions and pull requests are always welcome.
 ## 📄 License  
 
 MIT License - you are free to use this project for personal or commercial use.  
+
+---
+
+## 📰 Updated: PDF Conversion
+
+The project now includes an updated PDF conversion feature that allows users to convert images into multi-page PDF documents directly in the browser. This frontend-only implementation preserves image quality, supports bulk image-to-PDF export, and offers options for page sizing and image compression before PDF assembly.
+
+Features:
+- Bulk image to multi-page PDF export
+- Adjustable image compression for PDF output
+- No server uploads — all processing is done locally in the browser
